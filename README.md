@@ -4,10 +4,10 @@
 3. Game judges on how well player poses.
 
 ## API
-ml5.js  
+ml5.js
 p5.js
 
-## Timeline
+## Implementation Timeline
 - [x] Write proposal
 - [ ] Understand technology
 - [ ] Project setup
@@ -18,3 +18,5 @@ p5.js
 - [ ] UI/UX
 - [ ] Integrated testing
 - [ ] Launch
+- [ ] Add GitHub, LinkedIn link
+- [ ] Beautify README
