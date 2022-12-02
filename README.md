@@ -5,7 +5,7 @@
 
 ## API
 ml5.js
-p5.js
+p5.js, and other dependencies of ml5.js...
 
 ## Implementation Timeline
 - [x] Write proposal
