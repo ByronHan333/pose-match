@@ -4,7 +4,7 @@
 3. Game judges on how well player poses.
 
 ## API
-ml5.js
+ml5.js  
 p5.js, and other dependencies of ml5.js...
 
 ## Implementation Timeline
