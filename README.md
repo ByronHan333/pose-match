@@ -9,7 +9,8 @@ p5.js, and other dependencies of ml5.js...
 
 ## Implementation Timeline
 - [x] Write proposal
-- [ ] Understand technology
+- [x] Understand technology
+- [ ] build functional ml
 - [ ] Project setup
 - [ ] Recognize poses
 - [ ] Classify poses
@@ -29,5 +30,8 @@ https://philippschmitt.com/work/humans-of-ai
 
 p5 videoCreateCapture
 https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&ab_channel=TheCodingTrain
+
+encrypt website
+https://letsencrypt.org/getting-started/
 
 
