@@ -20,3 +20,8 @@ p5.js, and other dependencies of ml5.js...
 - [ ] Launch
 - [ ] Add GitHub, LinkedIn link
 - [ ] Beautify README
+
+
+https://www.tensorflow.org/lite/examples/pose_estimation/overview
+https://blog.tensorflow.org/2018/05/real-time-human-pose-estimation-in.html
+https://philippschmitt.com/work/humans-of-ai
